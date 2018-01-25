@@ -1,0 +1,262 @@
+{
+  "reports": [
+    {
+      "columnHeader": {
+        "dimensions": [
+          "ga:date"
+        ],
+        "metricHeader": {
+          "metricHeaderEntries": [
+            {
+              "name": "ga:users",
+              "type": "INTEGER"
+            }
+          ]
+        }
+      },
+      "data": {
+        "rows": [
+          {
+            "dimensions": [
+              "20180101"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "519"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180102"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "512"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180103"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "505"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180104"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "571"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180105"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "497"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180106"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "512"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180107"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "569"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180108"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "538"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180109"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "483"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180110"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "556"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180111"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "502"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180112"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "487"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180113"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "441"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180114"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "506"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180115"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "632"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180116"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "670"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180117"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "534"
+                ]
+              }
+            ]
+          },
+          {
+            "dimensions": [
+              "20180118"
+            ],
+            "metrics": [
+              {
+                "values": [
+                  "545"
+                ]
+              }
+            ]
+          }
+        ],
+        "totals": [
+          {
+            "values": [
+              "9579"
+            ]
+          }
+        ],
+        "rowCount": 18,
+        "minimums": [
+          {
+            "values": [
+              "441"
+            ]
+          }
+        ],
+        "maximums": [
+          {
+            "values": [
+              "670"
+            ]
+          }
+        ],
+        "isDataGolden": true
+      }
+    }
+  ]
+}
